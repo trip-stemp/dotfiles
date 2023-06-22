@@ -2,7 +2,7 @@
 # Ftpd will not allow users to connect who are not using
 # one of these shells.
 
-#path /etc/shells
+# path /etc/shells
 
 /bin/bash
 /bin/csh
